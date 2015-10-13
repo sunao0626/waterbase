@@ -1,0 +1,10 @@
+{
+	"name": "waterbase",
+	"verson": "0.0.1",
+	"private": true, 
+	"dependencies": {
+	    "express": "*",
+	    "rethinkdb": "*",
+	    "socket.io": "*"
+	  }
+}
